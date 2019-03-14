@@ -1,0 +1,35 @@
+.header{
+    background:rgb(187, 186, 186);
+    margin-bottom: $xs-size;
+    padding: $l-size 0;
+    border-style: outset;
+    border-radius: 15px;
+    
+}
+
+
+
+.header__title{
+    font-size: $m-size;
+    margin: 0;
+}
+
+.header__subtitle{
+    color: $off-black;
+    font-size: $s-size;
+    font-weight: 500;
+    margin: 0;
+}
+
+
+@media(min-width:$desktop-breakpoint){
+    .header{
+        margin-bottom: $m-size;
+    }
+    .header__title{
+        font-size: $l-size;
+    }
+    .header__subtitle{
+        font-size: $l-size;
+    }
+}
