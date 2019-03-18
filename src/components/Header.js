@@ -24,7 +24,7 @@ const Header = (props) => {
       <div className="flex-item">
       <a href="https://github.com/JVDZMN">
           <img 
-      src="http://chittagongit.com/images/github-icon-for-resume/github-icon-for-resume-24.jpg" />
+      src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
            </a>
       
       </div>
