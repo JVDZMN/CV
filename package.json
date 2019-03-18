@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "mycv",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Andrew Mead",
@@ -28,5 +28,6 @@
     "validator": "^10.11.0",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
-  }
+  },
+  "repository": "https://github.com/JVDZMN/CV"
 }

@@ -4,15 +4,16 @@ const Header = (props) => {
       <div className="header">
       <div className="container">
       
-        {props.title && <h1 className="header__title">{props.title}</h1>}
-        {props.subtitle && <h2 className="header__subtitle">{props.subtitle}</h2>}
+         <h1 className="header__title">Javad zamani</h1>
+         <h2 className="header__subtitle">Web developer</h2>
         
         <div className="flex-container">
+        
 
          <div className="flex-item">
          <a href="https://www.linkedin.com/in/javad-zamani-047350111/">
           <img 
-      src="http://science.psu.edu/sciencejournaljune2012.pdf/archives/december-2013/images-december-2013/linkedin-logo.jpg/image" />
+      src="http://chittagongit.com//images/linkedin-icon-no-background/linkedin-icon-no-background-3.jpg" />
            </a>
          </div>
 
@@ -23,7 +24,7 @@ const Header = (props) => {
       <div className="flex-item">
       <a href="https://github.com/JVDZMN">
           <img 
-      src="https://github.blog/wp-content/uploads/2013/04/fffdd290-a5e2-11e2-8099-e1b5d8286da3.jpg?resize=1234%2C272" />
+      src="http://chittagongit.com/images/github-icon-for-resume/github-icon-for-resume-24.jpg" />
            </a>
       
       </div>

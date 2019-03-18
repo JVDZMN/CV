@@ -7,16 +7,17 @@ const Skills = (props) => {
 
       <div className="flex-container">
         <div className="flex-item"> 
-          <img src="https://image.freepik.com/iconos-gratis/archivo-html-simbolo-interfaz-de-extension_318-45345.png"></img>
+          <img src="https://thumbs.dreamstime.com/z/html-concept-vector-linear-icon-isolated-transparent-backgrou-background-transparency-outline-style-130087203.jpg">
+          </img>
         </div>
         <div className="flex-item"> 
-        <img src="https://www.css-inc.com/images/logo_css.png"></img>
+        <img src="https://image.shutterstock.com/display_pic_with_logo/4213018/1330812905/stock-photo-illustration-css-icon-1330812905.jpg"></img>
         </div>
         <div className="flex-item"> 
-        <img src="https://gocode.academy/wp-content/uploads/2018/06/javascript-logo.png"></img>
+        <img src="http://chittagongit.com/images/js-icon/js-icon-21.jpg"></img>
         </div>
         <div className="flex-item"> 
-        <img src="http://pluspng.com/img-png/nodejs-logo-vector-png-kirkstrobeck-commented-on-oct-20-2015-1085.png"></img>
+        <img src="http://chittagongit.com/images/nodejs-icon/nodejs-icon-15.jpg"></img>
         </div>
         <div className="flex-item"> 
         <img src="https://cdn-images-1.medium.com/max/871/1*d2zLEjERsrs1Rzk_95QU9A.png"></img>
