@@ -1,5 +1,5 @@
 .col3{
-    background-color:#212E3F;
+   
 }
 
 .col3-contact-container {
@@ -7,10 +7,9 @@
     grid-template-rows: auto auto ;
     grid-gap: auto;
     background-color: #212E3F;
-    padding: 7%;
+    padding-top: 7%;
     color: $light-gray;
 
-    align-items: stretch;
   }
 
   .col3-img{
@@ -18,10 +17,11 @@
   }
 
   .col3-title{
-      padding: 7%;
+      padding-top: 7%;
       color: $light-gray;
       font-size: $m-size;
       text-decoration: underline;
+      color: $dark-blue;
   }
 
   .col3-hobbies-container{
@@ -29,7 +29,7 @@
     grid-template-columns: auto auto ;
     grid-gap: auto;
     background-color:$light-gray;
-    padding: 10px;
+    padding-top: 10px;
     
   }
   .col3-social-container{
@@ -37,16 +37,16 @@
     grid-template-columns: auto auto ;
     grid-gap: auto;
     background-color:$dark-blue;
-    padding: 10px;
+    padding-top: 10px;
   }
 
   .li-gr2{
-    height: 10px;
+    height: 70px;
     width: 100%;
     background-image: linear-gradient(
-        -45deg,
+        -10deg,
         $light-gray,
-      $light-gray 50%,
+      $light-gray 60%,
       $dark-blue 100px,
       $dark-blue 50% /* determines size */
     );}

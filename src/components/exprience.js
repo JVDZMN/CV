@@ -2,7 +2,7 @@ import React from 'react';
 const Experience = (props) => {
     return (
       <div className="header">
-      <div className="container">
+      <div className="container"  >
       <div className="title">Exprience</div>
 
       <div className="text-area">

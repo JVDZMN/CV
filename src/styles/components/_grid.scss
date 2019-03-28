@@ -1,19 +1,17 @@
 .grid-container {
   display: grid;
-  grid-template-columns: 0.6fr 1.8fr 0.6fr;
+  grid-template-columns: 20% 50% 20%;
   grid-gap:2%;
-  padding: 4rem;
+  padding: 0;
 }
 
 .al-self{
-  align-self: start;
+ 
   position: sticky;
-  top: 0;
+    top: 0;
+    height: 100vh;
+    box-sizing: border-box;
 }
 
-img.al-self{
-  border-radius: 50%;
-  vertical-align: middle;
-  height: 150px;
-}
+
 

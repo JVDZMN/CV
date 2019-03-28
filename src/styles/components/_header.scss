@@ -1,24 +1,8 @@
-.header{
-
-    margin-bottom: $xs-size;
-    padding: $l-size 0;
-    border-style: outset;
-       
-}
 
 
 
-.header__title{
-    font-size: $m-size;
-    padding : 3%;
-}
 
-.header__subtitle{
-    color: $off-black;
-    font-size: $s-size;
-    font-weight: 500;
-    margin: 0;
-}
+
 
 
 @media(min-width:$desktop-breakpoint){
