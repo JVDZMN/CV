@@ -1,17 +1,16 @@
 .header{
-    background:rgb(238, 237, 237);
+
     margin-bottom: $xs-size;
     padding: $l-size 0;
     border-style: outset;
-    border-radius: 15px;
-    
+       
 }
 
 
 
 .header__title{
     font-size: $m-size;
-    margin: 0;
+    padding : 3%;
 }
 
 .header__subtitle{

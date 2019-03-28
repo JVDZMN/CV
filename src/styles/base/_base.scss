@@ -7,16 +7,5 @@ html{
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: $m-size;
-    background-color: white;
-}
-button{
-    cursor: pointer;
-}
-button:disabled{
-    cursor: default;
-}
-
-img{
-    height: 40px;
-    
+    background-color:white;
 }

@@ -5,7 +5,6 @@
   "author": "Andrew Mead",
   "license": "MIT1",
   "scripts": {
-   
     "dev": "webpack-dev-server"
   },
   "dependencies": {
@@ -24,9 +23,13 @@
     "react-modal": "^3.8.1",
     "sass-loader": "6.0.6",
     "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
     "validator": "^10.11.0",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
   },
-  "repository": "https://github.com/JVDZMN/CV"
+  "repository": "https://github.com/JVDZMN/CV",
+  "devDependencies": {
+    "file-loader": "^3.0.1"
+  }
 }

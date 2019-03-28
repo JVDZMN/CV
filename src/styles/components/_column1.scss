@@ -1,0 +1,22 @@
+.col1{
+    background-color: $dark-blue;
+    color: $light-gray;
+}
+
+.aboutme{
+    background-color: $light-gray;
+    color: $dark-blue;
+}
+
+.li-gr{
+    height: 10px;
+    width: 100%;
+    background-image: linear-gradient(
+        45deg,
+        $light-gray,
+      $light-gray 50%,
+      $dark-blue 100px,
+      $dark-blue 50% /* determines size */
+    );
+    
+}

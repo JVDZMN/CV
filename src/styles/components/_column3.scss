@@ -1,0 +1,54 @@
+.col3{
+    background-color:#212E3F;
+}
+
+.col3-contact-container {
+    display: grid;
+    grid-template-rows: auto auto ;
+    grid-gap: auto;
+    background-color: #212E3F;
+    padding: 7%;
+    color: $light-gray;
+
+    align-items: stretch;
+  }
+
+  .col3-img{
+      height: 25px;
+  }
+
+  .col3-title{
+      padding: 7%;
+      color: $light-gray;
+      font-size: $m-size;
+      text-decoration: underline;
+  }
+
+  .col3-hobbies-container{
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-gap: auto;
+    background-color:$light-gray;
+    padding: 10px;
+    
+  }
+  .col3-social-container{
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-gap: auto;
+    background-color:$dark-blue;
+    padding: 10px;
+  }
+
+  .li-gr2{
+    height: 10px;
+    width: 100%;
+    background-image: linear-gradient(
+        -45deg,
+        $light-gray,
+      $light-gray 50%,
+      $dark-blue 100px,
+      $dark-blue 50% /* determines size */
+    );}
+
+  
