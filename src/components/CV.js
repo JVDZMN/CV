@@ -12,7 +12,7 @@ export default class IndecisionApp extends React.Component {
 
     return (
       <div className="grid-container">
-        
+        <div></div>
         <Column1></Column1>
         <Column2></Column2>
         <Column3></Column3>

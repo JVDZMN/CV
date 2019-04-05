@@ -15,7 +15,7 @@ const Column1=(props)=>{
          <h2>Javad Zamani</h2>
          <h3>Front End developer</h3>
         </div>
-        <div className="li-gr"></div>
+        {/* <div className="li-gr"></div> */}
         <div className="aboutme">
         <AboutMe> 
         </AboutMe>

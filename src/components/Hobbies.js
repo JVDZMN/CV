@@ -9,7 +9,7 @@ const Hobbies = (props) => {
       <div className="col3-title">
         HOBBIES
       </div>
-      <div className="li-gr2"></div>
+      
       <div className="col3-hobbies-container">
         <div>
           <img className="col3-img " src={Soccer}></img>

@@ -14,7 +14,7 @@ const Contact = (props) => {
         </div>
         <div>
           <img className="col3-img" src={gmail}></img>
-          jvdzmn@gmail.com
+          &nbsp;jvdzmn@gmail.com
         </div>
       </div>
       </div>

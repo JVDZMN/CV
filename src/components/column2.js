@@ -12,7 +12,7 @@ const Column2 = (props) =>{
         <Experience></Experience>
         <Education></Education>
         
-        <Skills></Skills>
+       
         
         </div>
     )

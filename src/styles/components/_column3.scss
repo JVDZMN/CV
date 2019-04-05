@@ -11,6 +11,10 @@
     color: $light-gray;
 
   }
+  .col3-contact-container > div{
+    display: flex;
+    align-items: center;
+  }
 
   .col3-img{
       height: 25px;
@@ -50,5 +54,44 @@
       $dark-blue 100px,
       $dark-blue 50% /* determines size */
     );}
-
+.col3-skills-container{
   
+    display: grid;
+    grid-template-columns: 30% 65%;
+    grid-gap: 5%;
+    padding: 5px;
+    background-color:$light-gray;
+    color: $dark-blue;
+    height: 150px;
+}
+.col3-skills-container #CSS{
+  width: 75%;
+  height: 10px;
+  background-color: $dark-blue;
+}
+.col3-skills-container  #HTML{
+  width: 75%;
+  height: 10px;
+  background-color: $dark-blue;
+}
+.col3-skills-container  #JAVASCRIPT{
+  width: 65%;
+  height: 10px;
+  background-color: $dark-blue;
+}
+.col3-skills-container  #REACT{
+  width: 70%;
+  height: 10px;
+  background-color: $dark-blue;
+}
+.col3-skills-container  #NODE{
+  width: 60%;
+  height: 10px;
+  background-color: $dark-blue;
+}
+
+.col3-skills-container  #DATABASE{
+  width: 60%;
+  height: 10px;
+  background-color: $dark-blue;
+}
